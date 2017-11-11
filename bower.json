@@ -15,7 +15,6 @@
     "form"
   ],
   "dependencies": {
-    "jquery": ">=1.5"
   },
   "license": "MIT",
   "ignore": [
